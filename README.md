@@ -1,4 +1,4 @@
 # Je-Nxt-API
-My new API on RapidAPI with python 3 framework endpoint
+Developed Endpoint Call API on RapidAPI with python 3 framework endpoint for Voice Applications based on DialogFlow(API.ai)
 https://rapidapi.com/Jatinpandya26/api/jenxt
-The V1.0 is to use advanced pyhon lib to use it for a basic string input endpoints
+The V1.0 is to use pyhon nodeJs based endpoint for for a basic string input on Google Firebase Webhook!
